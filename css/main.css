@@ -285,3 +285,13 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+img{
+    width: 100%;
+    max-width: 100%;
+}
+
+.containter-fluid{
+    background: url('../img/zotewall.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
